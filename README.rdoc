@@ -7,5 +7,5 @@ Backbone.js link:http://backbone.codeschool.com.
 == Getting Started
 
 1. Run `bundle install` to setup required gems.
-2. Run `rake db:setup` to create a sqlite database and initialize with data.
+2. Run `bundle exec rake db:setup` to create a sqlite database and initialize with data.
 2. Run `rails s` to run the server locally.
